@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\CPP\\Project 2(MATH EXAM)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5C185E-93D6-40B9-8E15-40E7B20CAED3}|Project 2(MATH EXAM)\\Project 2(MATH EXAM).vcxproj|E:\\Projects\\CPP\\Project 2(MATH EXAM)\\Project 2(MATH EXAM)\\Project 2(MATH EXAM).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE5C185E-93D6-40B9-8E15-40E7B20CAED3}|Project 2(MATH EXAM)\\Project 2(MATH EXAM).vcxproj|solutionrelative:Project 2(MATH EXAM)\\Project 2(MATH EXAM).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 2(MATH EXAM).cpp",
+              "DocumentMoniker": "E:\\Projects\\CPP\\Project 2(MATH EXAM)\\Project 2(MATH EXAM)\\Project 2(MATH EXAM).cpp",
+              "RelativeDocumentMoniker": "Project 2(MATH EXAM)\\Project 2(MATH EXAM).cpp",
+              "ToolTip": "E:\\Projects\\CPP\\Project 2(MATH EXAM)\\Project 2(MATH EXAM)\\Project 2(MATH EXAM).cpp*",
+              "RelativeToolTip": "Project 2(MATH EXAM)\\Project 2(MATH EXAM).cpp*",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAAACgBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T20:37:48.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿  Project 2(MATH EXAM).cpp
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(62,12): warning C4101: 'Level': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(113,12): warning C4101: 'Level': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(163,12): warning C4101: 'Level': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(212,12): warning C4101: 'Level': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(288,6): warning C4101: 'num1': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(286,11): warning C4101: 'type': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(288,26): warning C4101: 'answer': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(288,18): warning C4101: 'result': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(288,12): warning C4101: 'num2': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(354,12): warning C4101: 'level': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(363,12): warning C4101: 'level': unreferenced local variable
+E:\Projects\CPP\Project 2(MATH EXAM)\Project 2(MATH EXAM)\Project 2(MATH EXAM).cpp(282,1): warning C4715: 'MixExam': not all control paths return a value
+  Project 2(MATH EXAM).vcxproj -> E:\Projects\CPP\Project 2(MATH EXAM)\x64\Debug\Project 2(MATH EXAM).exe
