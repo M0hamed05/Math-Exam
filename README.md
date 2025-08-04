@@ -1,7 +1,7 @@
-🧠 Math Exam Game – C++ 
+ Math Exam Game – C++ 
 This project is a console-based C++ math quiz game designed to help users practice basic arithmetic operations through interactive rounds. The game allows full customization of difficulty level, question type, and number of rounds.
 
-🎮 Features
+ Features
 Four difficulty levels: Easy, Medium, Hard, or Mixed
 
 Five question types: Addition, Subtraction, Multiplication, Division, or Mixed
@@ -14,7 +14,7 @@ Detailed results summary after each session
 
 Option to replay the game
 
-📌 Topics Covered
+ Topics Covered
 Enums & Structs for better code structure
 
 Random number generation
